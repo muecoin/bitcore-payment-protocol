@@ -7,14 +7,14 @@ Payment protocol is implemented as a separate module and you must add it to your
 For node projects:
 
 ```
-npm install viacore-lib --save
+npm install bitcore-lib-mue2 --save
 npm install bitcore-payment-protocol --save
 ```
 
 For client-side projects:
 
 ```
-bower install viacore-lib --save
+bower install bitcore-lib-mue2 --save
 bower install bitcore-payment-protocol --save
 ```
 
